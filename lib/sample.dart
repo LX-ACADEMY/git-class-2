@@ -1,3 +1,4 @@
 int calculate() {
-print("azhar" ;
+print("azhar") ;
+print("minhaj");
 }
